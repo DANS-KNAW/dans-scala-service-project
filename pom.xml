@@ -27,7 +27,7 @@
     </parent>
 
     <artifactId>dans-scala-service-project</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
     <name>DANS Scala Service Project</name>
     <packaging>pom</packaging>
     <repositories>
